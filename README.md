@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá pessoal 👋
 
-<!--
-**AlexandreSchuelter/AlexandreSchuelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Alexandre Schuelter
+
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
+
+ :rocket:  &nbsp; Estou trabalhando na **Moldurarte**
+ <br/> :purple_heart: &nbsp; Buscando conhecimentos avançados para desenvolver para web.
+ <br/> :computer: &nbsp; Estou focado em dominar ReactJS, Node.js e React Native 
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games(Forza Horizon 4, Call of duty) e filmes no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: Outlook: alexandre-bn@hotmail.com || Gmail: alexandrejunior3@gmail.com
